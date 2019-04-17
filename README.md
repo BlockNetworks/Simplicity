@@ -4,22 +4,22 @@
 
 # Modules:
 
-Combat|
+Combat:
 ------
 - Aimbot
 - Hitbox
 
-Movement|
+Movement:
 ------
 - Speed
 - Spider/Step
 - Jesus
 
-Player|
+Player:
 ------
 - Flight
 - Bounce Fly
 - Vanilla NoFall
 
-Exploits|
+Exploits:
 ------
