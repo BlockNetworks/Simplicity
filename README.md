@@ -8,18 +8,22 @@ Combat:
 ------
 - Aimbot
 - Hitbox
+- Hit TP
 
 Movement:
 ------
 - Speed
 - Spider/Step
 - Jesus
+- NoDownGlide
 
 Player:
 ------
 - Flight
 - Bounce Fly
 - Vanilla NoFall
+- SPAM
 
 Exploits:
 ------
+- Item Duper
